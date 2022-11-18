@@ -12,5 +12,7 @@ public class TestMain {
         long l = System.currentTimeMillis();
         Date date = new Date(l);
         System.out.println(date);
+        System.out.println("测试GIT");
+        System.out.println("测试Git");
     }
 }
